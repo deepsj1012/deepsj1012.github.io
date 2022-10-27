@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: hufsjlee                         # the main title
 
-tagline: hufsjlee   # it will display as the sub-title
+tagline: 나의 기록들   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
